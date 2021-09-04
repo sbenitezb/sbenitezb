@@ -3,9 +3,9 @@
 While I work almost exclusively on Apple's platforms, I recently started my new project in C++ with the Qt6 library. It will be cross-platform and cool, but it won't be open source (at least not most of it), sorry about that.
 
 The following is a list of my own software:
-- [PopDo](https://ds9soft.com/popdo/): a menu bar task list for Mac.
-- [FreelanceStation](https://ds9soft.com/freelancestation/): time tracking and invocicing for freelancers.
 - [LunarSight](https://ds9soft.com/lunarsight/): an iOS moon tracking app with ephemeris and calendar.
+- [FreelanceStation](https://ds9soft.com/freelancestation/): time tracking and invoicing for freelancers.
+- [PopDo](https://ds9soft.com/popdo/): a menu bar task list for Mac.
 
 
 [![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbenitezb&count_private=true&show_icons=true&theme=dark)](https://github.com/sbenitezb)
