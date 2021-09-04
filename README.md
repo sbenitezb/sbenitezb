@@ -6,6 +6,9 @@ The following is a list of my own software:
 - [PopDo](https://ds9soft.com/popdo/): a menu bar task list for Mac.
 - [FreelanceStation](https://ds9soft.com/freelancestation/): time tracking and invocicing for freelancers.
 - [LunarSight](https://ds9soft.com/lunarsight/): an iOS moon tracking app with ephemeris and calendar.
+
+[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbenitezb&count_private=true&show_icons=true&theme=dark)](https://github.com/sbenitezb/github-readme-stats)
+
 <!--
 **sbenitezb/sbenitezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
