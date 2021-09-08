@@ -1,7 +1,5 @@
 ### Hi there 👋. I'm Sebastián Benítez, an indie and freelace Mac & iOS developer. You'll find me most of the time working on my own software or client's software.
 
-While I work almost exclusively on Apple's platforms, I recently started my new project in C++ with the Qt6 library. It will be cross-platform and cool, but it won't be open source (at least not most of it), sorry about that.
-
 The following is a list of my own software:
 - [PopDo](https://ds9soft.com/popdo/): a menu bar task list for Mac.
 - [LunarSight](https://ds9soft.com/lunarsight/): an iOS moon tracking app with ephemeris and calendar.
