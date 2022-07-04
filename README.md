@@ -2,7 +2,7 @@
 
 The following is a list of my own software:
 - [PopDo](https://ds9soft.com/popdo/): a menu bar task list for Mac.
-- [LunarSight](https://ds9soft.com/lunarsight/): an iOS moon tracking app with ephemeris and calendar.
+- [LunarSight](https://ds9soft.com/lunarsight/): an iOS moon tracking app with ephemeris and calendar. Acquired by [Oval Software](https://oval.fi/).
 - [FreelanceStation](https://ds9soft.com/freelancestation/): time tracking and invoicing for freelancers.
 
 
