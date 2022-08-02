@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Sebastián Benítez, an indie and freelance Mac & iOS developer. You'll find me most of the time working on my own software or client's software.
+### Hi there 👋. I'm Sebastián Benítez, an indie and freelance Mac, iOS & desktop GUI developer. You'll find me most of the time working on my own software or client's software.
 
 The following is a list of my own software:
 - [PopDo](https://ds9soft.com/popdo/): a menu bar task list for Mac.
