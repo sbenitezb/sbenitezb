@@ -5,9 +5,6 @@ The following is a list of my own software:
 - [LunarSight](https://ds9soft.com/lunarsight/): an iOS moon tracking app with ephemeris and calendar. Acquired by [Oval Software](https://oval.fi/).
 - [FreelanceStation](https://ds9soft.com/freelancestation/): time tracking and invoicing for freelancers.
 
-
-[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbenitezb&count_private=true&show_icons=true&theme=dark)](https://github.com/sbenitezb)
-
 <!--
 **sbenitezb/sbenitezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
