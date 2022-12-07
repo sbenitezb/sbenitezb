@@ -5,6 +5,6 @@ The following is a list of my own software:
 - [LunarSight](https://ds9soft.com/lunarsight/): an iOS moon tracking app with ephemeris and calendar. Acquired by [Oval Software](https://oval.fi/).
 - [FreelanceStation](https://ds9soft.com/freelancestation/): time tracking and invoicing for freelancers.
 
-I'm currently working on a cross-platform desktop software with C++/Qt6 GUI.
+I'm currently working on a cross-platform desktop software with a Common Lisp engine and a C++/Qt6 GUI.
 
 My <a rel="me" href="https://fosstodon.org/@sbenitezb">Mastodon</a>.
