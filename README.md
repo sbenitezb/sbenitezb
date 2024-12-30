@@ -5,3 +5,4 @@ The following is a list of my own software:
 - [LunarSight](https://ds9soft.com/lunarsight/): an iOS moon tracking app with ephemeris and calendar. Acquired by [Oval Software](https://oval.fi/).
 - [FreelanceStation](https://ds9soft.com/freelancestation/): time tracking and invoicing for freelancers.
 
+Note: I'm slowly moving my personal open source repos to my [Codeberg instance](https://codeberg.org/sbenitezb).
