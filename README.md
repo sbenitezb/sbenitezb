@@ -2,4 +2,4 @@
 
 Note: I'm slowly moving my personal open source repos to my [Codeberg instance](https://codeberg.org/sbenitezb).
 
-<form action="https://hflows.com/f/1Ehp8QTMpu3A" method="POST">
+<form action="https://hflows.com/f/MhzReKHk0Fnk" method="POST">
